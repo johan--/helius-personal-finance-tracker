@@ -1,5 +1,12 @@
 /target/
 /dist/
+.env
+.env.*
+!.env.example
+*.local
+secrets.*
+*.pem
+*.key
 *.db
 *.db-shm
 *.db-wal
