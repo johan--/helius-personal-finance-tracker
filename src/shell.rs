@@ -485,3 +485,4 @@ fn prompt_value(
 fn today_iso() -> String {
     Local::now().date_naive().format("%Y-%m-%d").to_string()
 }
+// SPDX-License-Identifier: AGPL-3.0-only

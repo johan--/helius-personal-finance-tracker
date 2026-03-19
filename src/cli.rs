@@ -754,3 +754,4 @@ pub struct RecurringRunArgs {
     #[arg(long)]
     pub through: Option<String>,
 }
+// SPDX-License-Identifier: AGPL-3.0-only

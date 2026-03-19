@@ -1465,3 +1465,4 @@ mod tests {
         assert!(output.contains("Enter a 3-letter code such as USD or EUR."));
     }
 }
+// SPDX-License-Identifier: AGPL-3.0-only

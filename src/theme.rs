@@ -95,3 +95,4 @@ fn ansi_spec(tone: Tone) -> (Option<(u8, u8, u8)>, Option<(u8, u8, u8)>, bool) {
         Tone::Selected => (Some((0, 0, 0)), Some((255, 122, 0)), true),
     }
 }
+// SPDX-License-Identifier: AGPL-3.0-only

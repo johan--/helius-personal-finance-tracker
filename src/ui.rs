@@ -207,3 +207,4 @@ mod tests {
         assert!(command_template("unknown").is_none());
     }
 }
+// SPDX-License-Identifier: AGPL-3.0-only

@@ -142,3 +142,4 @@ mod tests {
         assert_eq!(format_cents(-987), "-9.87");
     }
 }
+// SPDX-License-Identifier: AGPL-3.0-only

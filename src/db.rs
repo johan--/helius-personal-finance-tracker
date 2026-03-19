@@ -5584,3 +5584,4 @@ fn map_db_error(error: AppError) -> rusqlite::Error {
         )),
     )
 }
+// SPDX-License-Identifier: AGPL-3.0-only

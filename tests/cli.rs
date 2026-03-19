@@ -1704,3 +1704,4 @@ fn open_existing_repairs_missing_recurring_tables_before_running_commands() {
     assert_eq!(recurring_rules_exists, 1);
     assert_eq!(recurring_occurrences_exists, 1);
 }
+// SPDX-License-Identifier: AGPL-3.0-only

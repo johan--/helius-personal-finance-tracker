@@ -721,3 +721,4 @@ pub struct CsvImportPlan {
     pub dry_run: bool,
     pub allow_duplicates: bool,
 }
+// SPDX-License-Identifier: AGPL-3.0-only

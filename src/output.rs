@@ -821,3 +821,4 @@ fn ensure_parent_dir(path: &Path) -> Result<(), AppError> {
     }
     Ok(())
 }
+// SPDX-License-Identifier: AGPL-3.0-only
