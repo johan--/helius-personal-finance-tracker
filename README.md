@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/branding/helius-logo.svg" alt="Helius logo" width="760" />
-</p>
+
 
 # Helius
 
