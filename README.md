@@ -1,6 +1,6 @@
 
 
-# Helius
+# Helius Personal Finance Tracker
 
 [Latest Release](https://github.com/STVR393/helius-personal-finance-tracker/releases) | [Quick Start](QUICKSTART.md) | [Wiki](wiki/Home.md)
 
